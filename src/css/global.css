@@ -4,7 +4,7 @@ body {
 
 main {
     min-height: 100vh;
-    background-color: rgb(61, 115, 202);
+    background-color: aquamarine;
     display: flex;
     align-items: center;
     justify-content: center;
